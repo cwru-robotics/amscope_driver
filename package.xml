@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+	<name>amscope_driver</name>
+	<version>0.0.0</version>
+	<description>Driver for amscope, touptek, and related cameras.</description>
+	<maintainer email="tes77@case.edu">Tom Shkurti</maintainer>
+	<license>TODO</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+</package>
